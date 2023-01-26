@@ -2,8 +2,6 @@
 
 ![roadmap-image](https://github.com/Pratik-canopas/Flutter-Roadmap/blob/main/flutter-developer-roadmap.jpg)
 
-Flutter Developer Roadmap 2023 is a learning path to understand flutter development.
-
 ## What is Flutter?
 
 Flutter is an SDK(Software Development Kit) developed by google that allows developer to build native cross-platform apps with just one programming langauage-Dart. From single codebase, it creates native app for ios, Android and web, that can be published to the stores later.
