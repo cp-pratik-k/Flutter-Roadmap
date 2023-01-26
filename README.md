@@ -3,10 +3,11 @@
 ![roadmap-image](https://github.com/Pratik-canopas/Flutter-Roadmap/blob/main/flutter-developer-roadmap.jpg)
 
 ## What is Flutter?
-
 Flutter is an SDK(Software Development Kit) developed by google that allows developer to build native cross-platform apps with just one programming langauage-Dart. From single codebase, it creates native app for ios, Android and web, that can be published to the stores later.
+[view more](https://en.wikipedia.org/wiki/Flutter_(software))
 
 # Table of Contents:
+- [Flutter Setup](https://github.com/Pratik-canopas/Flutter-Roadmap/edit/main/README.md#setup-flutter)
 - [Sprint 1](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-1)
 - [Sprint 2](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-2)
 - [Sprint 3](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-3)
@@ -14,18 +15,21 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 - [Sprint 5](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-5)
 - [Sprint 6](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-6)
 
-#### Let's start with basic learning.
+## Flutter Setup
+* [Setup](https://docs.flutter.dev/get-started/install)
 
 ## Sprint 1:
-
-### Flutter basics:
-* introduction to [Flutter](https://www.javtpoint.com/flutter)
-* [Why flutter?](https://medium.com/flutter-community/reasons-why-flutter-is-setting-the-trend-in-mobile-app-development-4aa707532fb)
-* [Set up](https://docs.flutter.dev/get-started/install)
 
 ### Dart basics:
 * Introduction to [Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 * [Dart](https://dart.dev/guides/language/language-tour) programming langauage
+* [Dartpad](https://dartpad.dev/) - Online code editor for dart language
+
+### Flutter basics:
+* introduction to [Flutter](https://www.javtpoint.com/flutter)
+* [Why flutter?](https://medium.com/flutter-community/reasons-why-flutter-is-setting-the-trend-in-mobile-app-development-4aa707532fb)
+* [What is widget in flutter?](https://www.geeksforgeeks.org/what-is-widgets-in-flutter/)
+* [See widget list](https://docs.flutter.dev/development/ui/widgets)
 
 ### Code style:
 * [Best practices and tips](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5)
@@ -36,7 +40,9 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * Do all [Practicles](https://github.com/cp-sneha-s/flutter-roadmap/blob/main/Practical-1.1) using [Dartpad](https://www.dartpad.dev/?).
 
 #### Practicle 1.2
-* Create repository of practicle 1.1 on Gitlab
+* Upload practical on gitlab.
+    - You can create repository of and upload practicals 1.1 on Gitlab.
+    - You can create Gists from dartpad and upload practicals.
 
 #### References
 * Introduction to version control: [What Is Version Control?](https://tutorials.codebar.io/version-control/introduction/tutorial.html)
