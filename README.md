@@ -9,12 +9,12 @@ Flutter Developer Roadmap 2022 is a learning path to understand flutter developm
 Flutter is an SDK(Software Development Kit) developed by google that allows developer to build native cross-platform apps with just one programming langauage-Dart. From single codebase, it creates native app for ios, Android and web, that can be published to the stores later.
 
 # Table of Contents:
-- [Sprint 1](https://github.com/cp-sneha-s/flutter-roadmap#sprint-1)
-- [Sprint 2](https://github.com/cp-sneha-s/flutter-roadmap#sprint-2)
-- [Sprint 3](https://github.com/cp-sneha-s/flutter-roadmap#sprint-3)
-- [Sprint 4](https://github.com/cp-sneha-s/flutter-roadmap#sprint-4)
-- [Sprint 5](https://github.com/cp-sneha-s/flutter-roadmap#sprint-5)
-- [Sprint 6](https://github.com/cp-sneha-s/flutter-roadmap#sprint-6)
+- [Sprint 1](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-1)
+- [Sprint 2](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-2)
+- [Sprint 3](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-3)
+- [Sprint 4](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-4)
+- [Sprint 5](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-5)
+- [Sprint 6](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-6)
 
 #### Let's start with basic learning.
 
