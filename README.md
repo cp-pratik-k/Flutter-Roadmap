@@ -1,8 +1,8 @@
-<h1 align="center">Flutter Developer Roadmap 2022</h1>
+<h1 align="center">Flutter Developer Roadmap 2023</h1>
 
 ![roadmap-image](https://github.com/Pratik-canopas/Flutter-Roadmap/blob/main/flutter-developer-roadmap.jpg)
 
-Flutter Developer Roadmap 2022 is a learning path to understand flutter development.
+Flutter Developer Roadmap 2023 is a learning path to understand flutter development.
 
 ## What is Flutter?
 
