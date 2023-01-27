@@ -64,7 +64,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
     -  [When to commit in version control](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
 
 #### Practicle 2.1
-* create repository of [practical 1.3]()
+* create repository of [practical 1.3](https://github.com/Pratik-canopas/Flutter-Roadmap#practical-13)
 
 ### Supporting different devices
 * [Adaptive and Resposive](https://docs.flutter.dev/development/ui/layout/adaptive-responsive) apps
@@ -87,7 +87,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Practical 2.3
 * Implement an app with a bottom bar that has 4 screens (home, setting, like, search).
    -  Implement a route between screens.
-   - Implement Navigator 2.0
+   - Implement go_router for bottombar navigation or you can user indexedStack for bottombar navigation.
    
 ## Sprint 3:
 
