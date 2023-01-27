@@ -23,7 +23,6 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Dart basics:
 * Introduction to [Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 * [Dart](https://dart.dev/guides/language/language-tour) programming langauage
-* [Dartpad](https://dartpad.dev/) - Online code editor for dart language
 
 #### Practicle 1.1
 * Do all [Practicles](https://github.com/cp-sneha-s/flutter-roadmap/blob/main/Practical-1.1) using [Dartpad](https://www.dartpad.dev/?).
@@ -43,7 +42,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Building Layout](https://docs.flutter.dev/development/ui/layout/tutorial)
 * [View widget list](https://docs.flutter.dev/development/ui/widgets)
 
-#### Practicle 1.3
+#### Practical 1.3
 * create an app with this [layout](https://github.com/Pratik-canopas/Flutter-Roadmap/blob/main/practical-1.3.jpg)
 
 ### Code style:
@@ -64,6 +63,9 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
     -  [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/10929402#overview)
     -  [When to commit in version control](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
 
+#### Practicle 2.1
+* create repository of [practical 1.3]()
+
 ### Supporting different devices
 * [Adaptive and Resposive](https://docs.flutter.dev/development/ui/layout/adaptive-responsive) apps
 
@@ -73,7 +75,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
     -  Udemy Course 1 - Section 6
 
 
-### Practical 2.1
+### Practical 2.2
 * Create given [Responsive UI](https://user-images.githubusercontent.com/92501869/202130578-6c42048a-ce47-4833-bdc2-9e700cc6a489.png)
    - You can use alternative images.
    
@@ -82,7 +84,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Navigation and Routing](https://docs.flutter.dev/development/ui/navigation)
 * Introduction to [Navigator 2.0](https://blog.codemagic.io/flutter-navigator2/)
 
-### Practical 2.2
+### Practical 2.3
 * Implement an app with a bottom bar that has 4 screens (home, setting, like, search).
    -  Implement a route between screens.
    - Implement Navigator 2.0
