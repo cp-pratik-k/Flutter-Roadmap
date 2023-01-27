@@ -256,13 +256,12 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Http]()
 * [Dio]()
 
-### Networking:
-#### Local Database:
+### Local Database:
 * [Shared Preferences]()
 * [Sqflite]()
 * [Hive]()
 
-#### Online Database:
+### Online Database:
 * [Firebase]()
 * [google sheet using app script]()
 * your own
