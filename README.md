@@ -50,13 +50,6 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Best practices and tips](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5)
 * [Effective Dart](https://dart.dev/guides/language/effective-dart)
 * [Flutter code formatting](https://docs.flutter.dev/development/tools/formatting)
-
-#### References
-* Introduction to version control: [What Is Version Control?](https://tutorials.codebar.io/version-control/introduction/tutorial.html)
-* How to use git
-    -  [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123)
-    -  [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/10929402#overview)
-    -  [When to commit in version control](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
  
  ### Flutter Tools:
 * [Hot Reload](https://docs.flutter.dev/development/tools/hot-reload)
@@ -65,8 +58,11 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ## Sprint 2:
 
 ### Version control: 
-
-
+* Introduction to version control: [What Is Version Control?](https://tutorials.codebar.io/version-control/introduction/tutorial.html)
+* How to use git
+    -  [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123)
+    -  [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/10929402#overview)
+    -  [When to commit in version control](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
 
 ### Supporting different devices
 * [Adaptive and Resposive](https://docs.flutter.dev/development/ui/layout/adaptive-responsive) apps
