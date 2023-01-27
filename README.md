@@ -24,10 +24,10 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * Introduction to [Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 * [Dart](https://dart.dev/guides/language/language-tour) programming langauage
 
-#### Practicle 1.1
+### Practical 1.1
 * Do all [Practicles](https://github.com/cp-sneha-s/flutter-roadmap/blob/main/Practical-1.1) using [Dartpad](https://www.dartpad.dev/?).
 
-#### Practicle 1.2
+### Practical 1.2
 * Upload practical on gitlab or github.
     - You can create repository of practicals and upload practicals 1.1 on Gitlab.
     - You can create Gists from dartpad and upload practicals on github.
@@ -42,7 +42,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Building Layout](https://docs.flutter.dev/development/ui/layout/tutorial)
 * [View widget list](https://docs.flutter.dev/development/ui/widgets)
 
-#### Practical 1.3
+### Practical 1.3
 * create an app with this [layout](https://github.com/Pratik-canopas/Flutter-Roadmap/blob/main/practical-1.3.jpg)
 
 ### Code style:
@@ -63,7 +63,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
     -  [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/10929402#overview)
     -  [When to commit in version control](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
 
-#### Practicle 2.1
+### Practical 2.1
 * create repository of [practical 1.3](https://github.com/Pratik-canopas/Flutter-Roadmap#practical-13)
 
 ### Supporting different devices
