@@ -25,24 +25,31 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Dart](https://dart.dev/guides/language/language-tour) programming langauage
 * [Dartpad](https://dartpad.dev/) - Online code editor for dart language
 
+#### Practicle 1.1
+* Do all [Practicles](https://github.com/cp-sneha-s/flutter-roadmap/blob/main/Practical-1.1) using [Dartpad](https://www.dartpad.dev/?).
+
+#### Practicle 1.2
+* Upload practical on gitlab or github.
+    - You can create repository of practicals and upload practicals 1.1 on Gitlab.
+    - You can create Gists from dartpad and upload practicals on github.
+
 ### Flutter basics:
 * introduction to [Flutter](https://www.javtpoint.com/flutter)
 * [Why flutter?](https://medium.com/flutter-community/reasons-why-flutter-is-setting-the-trend-in-mobile-app-development-4aa707532fb)
+* Introduction to [Declarative UI](https://docs.flutter.dev/get-started/flutter-for/declarative)
 * [What is widget in flutter?](https://www.geeksforgeeks.org/what-is-widgets-in-flutter/)
-* [See widget list](https://docs.flutter.dev/development/ui/widgets)
+* Introduction to [Widgets](https://docs.flutter.dev/development/ui/widgets-intro)
+* [Layouts in flutter](https://docs.flutter.dev/development/ui/layout)
+* [Building Layout](https://docs.flutter.dev/development/ui/layout/tutorial)
+* [View widget list](https://docs.flutter.dev/development/ui/widgets)
+
+#### Practicle 1.3
+* create an app with this layout
 
 ### Code style:
 * [Best practices and tips](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5)
 * [Effective Dart](https://dart.dev/guides/language/effective-dart)
 * [Flutter code formatting](https://docs.flutter.dev/development/tools/formatting)
-
-#### Practicle 1.1
-* Do all [Practicles](https://github.com/cp-sneha-s/flutter-roadmap/blob/main/Practical-1.1) using [Dartpad](https://www.dartpad.dev/?).
-
-#### Practicle 1.2
-* Upload practical on gitlab.
-    - You can create repository of and upload practicals 1.1 on Gitlab.
-    - You can create Gists from dartpad and upload practicals.
 
 #### References
 * Introduction to version control: [What Is Version Control?](https://tutorials.codebar.io/version-control/introduction/tutorial.html)
@@ -57,10 +64,9 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 
 ## Sprint 2:
 
-* Introduction to [Declarative UI](https://docs.flutter.dev/get-started/flutter-for/declarative)
-* Introduction to [Widgets](https://docs.flutter.dev/development/ui/widgets-intro)
-* [Layouts in flutter](https://docs.flutter.dev/development/ui/layout)
-* [Building Layout](https://docs.flutter.dev/development/ui/layout/tutorial)
+### Version control: 
+
+
 
 ### Supporting different devices
 * [Adaptive and Resposive](https://docs.flutter.dev/development/ui/layout/adaptive-responsive) apps
