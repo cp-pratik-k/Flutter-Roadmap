@@ -7,7 +7,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 [view more](https://en.wikipedia.org/wiki/Flutter_(software))
 
 # Table of Contents:
-- [Flutter Setup](https://github.com/Pratik-canopas/Flutter-Roadmap/edit/main/README.md#setup-flutter)
+- [Flutter Setup](https://github.com/Pratik-canopas/Flutter-Roadmap#flutter-setup)
 - [Sprint 1](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-1)
 - [Sprint 2](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-2)
 - [Sprint 3](https://github.com/Pratik-canopas/Flutter-Roadmap#sprint-3)
