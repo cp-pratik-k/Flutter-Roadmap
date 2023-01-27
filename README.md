@@ -230,3 +230,45 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
   - Add unit test for all viewmodel and helper classes
 
  2  Make a calculator application. Save calculation history in the database. Users can view history and clear history.
+
+### Key Topic:
+
+#### Advance UI:
+* [sliver]()
+* [Animation in flutter]()
+
+#### State Management:
+* [Provider]()
+* [BLoc]()
+* [Getx]()
+* [riverpod]()
+* [Redux]()
+* [rxDart]()
+
+#### Navigation:
+* [Using Navigator key]()
+* [Navigator 2.0]()
+* [Go_Router]()
+
+#### Networking:
+* [Http]()
+* [Dio]()
+
+#### Networking:
+##### Local Database:
+* [Shared Preferences]()
+* [Sqflite]()
+* [Hive]()
+
+##### Online Database:
+* [Firebase]()
+* [google sheet using app script]()
+* your own
+
+#### Dependancy Injection:
+* [GetIt]()
+* [Injectable]()
+
+
+
+
