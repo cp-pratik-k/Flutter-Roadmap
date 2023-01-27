@@ -44,7 +44,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [View widget list](https://docs.flutter.dev/development/ui/widgets)
 
 #### Practicle 1.3
-* create an app with this layout
+* create an app with this [layout](https://github.com/Pratik-canopas/Flutter-Roadmap/blob/main/practical-1.3.jpg)
 
 ### Code style:
 * [Best practices and tips](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5)
