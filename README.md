@@ -201,7 +201,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 
 ## Sprint 6:
 
-### Final Practice:
+### Final Practocal:
 1 Implement a shopping application 
       
   Screen one - Home screen 
@@ -247,7 +247,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Provider](https://pub.dev/packages/provider)
 * [BLoc](https://bloclibrary.dev/#/gettingstarted)
 * [Getx](https://pub.dev/packages/get) 
-    - You can do state management, depandancy injection and navigation using getx
+    - You can do state management, dependency injection and navigation using getx
 * [riverpod](https://riverpod.dev/docs/getting_started)
 * [Redux](https://pub.dev/packages/flutter_redux)
 * [rxDart](https://pub.dev/packages/rxdart)
@@ -274,7 +274,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
     - [google sheet using app script](https://medium.flutterdevs.com/integrate-google-sheet-to-flutter-app-75e8bf19a075)
     - or any online database using API [networking](https://github.com/Pratik-canopas/Flutter-Roadmap/blob/main/README.md#networking-1).
 
-### Dependancy Injection:
+### Dependency Injection:
 * [GetIt](https://pub.dev/packages/get_it)
 * [Injectable](https://pub.dev/packages/injectable)
 
