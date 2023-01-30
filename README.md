@@ -269,11 +269,10 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
     - [Shared Preferences](https://pub.dev/packages/shared_preferences)
     - [Sqflite](https://docs.flutter.dev/cookbook/persistence/sqlite)
     - [Hive](https://pub.dev/packages/hive)
-
-#### Online Database:
-* [Firebase](https://firebase.flutter.dev/docs/overview/)
-* [google sheet using app script](https://medium.flutterdevs.com/integrate-google-sheet-to-flutter-app-75e8bf19a075)
-* or any online database using API [networking]().
+* #### Online Database:
+    - [Firebase](https://firebase.flutter.dev/docs/overview/)
+    - [google sheet using app script](https://medium.flutterdevs.com/integrate-google-sheet-to-flutter-app-75e8bf19a075)
+    - or any online database using API [networking](https://github.com/Pratik-canopas/Flutter-Roadmap/blob/main/README.md#networking-1).
 
 ### Dependancy Injection:
 * [GetIt](https://pub.dev/packages/get_it)
