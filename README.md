@@ -264,6 +264,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Http](https://pub.dev/packages/http)
 * [Dio](https://pub.dev/packages/dio)
 
+### Databases:
 ### Local Database:
 * [Shared Preferences](https://pub.dev/packages/shared_preferences)
 * [Sqflite](https://docs.flutter.dev/cookbook/persistence/sqlite)
@@ -278,7 +279,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [GetIt](https://pub.dev/packages/get_it)
 * [Injectable](https://pub.dev/packages/injectable)
 
-## Others
+### Others:
 * how to create [web app](https://docs.flutter.dev/get-started/web) using flutter
 
 
