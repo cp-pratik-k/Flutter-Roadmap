@@ -229,7 +229,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
    -   Add option to logout 
       
 
-
+  - Use navigation 2.0 for routing.
   - Add unit test for all viewmodel and helper classes
 
  2  Make a calculator application. Save calculation history in the database. Users can view history and clear history.
