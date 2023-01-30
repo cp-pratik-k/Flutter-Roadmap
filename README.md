@@ -71,6 +71,10 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Supporting different devices
 * [Adaptive and Resposive](https://docs.flutter.dev/development/ui/layout/adaptive-responsive) apps
 
+### Packages & Plugins.
+* [packages & Plugins](https://docs.flutter.dev/development/packages-and-plugins/using-packages) in fluttter
+* [packages & plugins site](https://pub.dev/)
+
 ### DelightFul User experience
 * Intorduction to [Material components](https://docs.flutter.dev/development/ui/widgets/material)
 * How to Build Beautiful UIs with Flutter Widgets 
@@ -89,8 +93,8 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 
 ### Practical 2.3
 * Implement an app with a bottom bar that has 4 screens (home, setting, like, search).
-   -  Implement a route between screens.
-   - Implement go_router for bottombar navigation or you can user indexedStack for bottombar navigation.
+   - Implement a route between screens.
+   - Implement go_router for bottombar navigation or you can use indexedStack for bottombar navigation.
    
 ## Sprint 3:
 
@@ -280,6 +284,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 
 ### Others:
 * how to create [web app](https://docs.flutter.dev/get-started/web) using flutter
+* [how to develop an package or plugins in flutter](https://docs.flutter.dev/development/packages-and-plugins/developing-packages)
 
 
 
