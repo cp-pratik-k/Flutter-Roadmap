@@ -265,10 +265,10 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 * [Dio](https://pub.dev/packages/dio)
 
 ### Databases:
-#### Local Database:
-* [Shared Preferences](https://pub.dev/packages/shared_preferences)
-* [Sqflite](https://docs.flutter.dev/cookbook/persistence/sqlite)
-* [Hive](https://pub.dev/packages/hive)
+* #### Local Database:
+    - [Shared Preferences](https://pub.dev/packages/shared_preferences)
+    - [Sqflite](https://docs.flutter.dev/cookbook/persistence/sqlite)
+    - [Hive](https://pub.dev/packages/hive)
 
 #### Online Database:
 * [Firebase](https://firebase.flutter.dev/docs/overview/)
