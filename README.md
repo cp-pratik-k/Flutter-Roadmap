@@ -71,7 +71,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Supporting different devices
 * [Adaptive and Resposive](https://docs.flutter.dev/development/ui/layout/adaptive-responsive) apps
 
-### Packages & Plugins.
+### Packages & Plugins
 * [packages & Plugins](https://docs.flutter.dev/development/packages-and-plugins/using-packages) in fluttter
 * [packages & plugins site](https://pub.dev/)
 
