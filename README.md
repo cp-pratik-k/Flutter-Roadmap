@@ -285,6 +285,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ### Others:
 * how to create [web app](https://docs.flutter.dev/get-started/web) using flutter
 * [how to develop an package or plugins in flutter](https://docs.flutter.dev/development/packages-and-plugins/developing-packages)
+* [CI/CD in gitlab](https://docs.gitlab.com/ee/ci/quick_start/)
 
 
 
