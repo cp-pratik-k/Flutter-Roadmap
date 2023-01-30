@@ -82,7 +82,7 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
    - You can use alternative images.
    
 ### Navigation:
-* [Navigation](https://medium.com/easyread/3-options-for-creating-responsive-layouts-in-flutter-app-live-demo-68b0c0e955ab) in Flutter
+* [Navigation](https://docs.flutter.dev/cookbook/navigation) in Flutter
 * [Navigation and Routing](https://docs.flutter.dev/development/ui/navigation)
 * Introduction to [Navigator 2.0](https://blog.codemagic.io/flutter-navigator2/)
 * Introduction to [Go_Router](https://pub.dev/packages/go_router)
