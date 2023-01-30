@@ -237,39 +237,49 @@ Flutter is an SDK(Software Development Kit) developed by google that allows deve
 ## Key Topic:
 
 ### Advance UI:
-* [sliver]()
-* [Animation in flutter]()
+* [slivers](https://docs.flutter.dev/development/ui/advanced/slivers)
+* [Animation in flutter](https://docs.flutter.dev/development/ui/animations)
+
+### Localization:
+* add multi language support in flutter using [localization](https://docs.flutter.dev/development/accessibility-and-localization/internationalization)
 
 ### State Management:
-* [Provider]()
-* [BLoc]()
-* [Getx]()
-* [riverpod]()
-* [Redux]()
-* [rxDart]()
+* [Provider](https://pub.dev/packages/provider)
+* [BLoc](https://bloclibrary.dev/#/gettingstarted)
+* [Getx](https://pub.dev/packages/get) 
+    - You can do state management, depandancy injection and navigation using getx
+* [riverpod](https://riverpod.dev/docs/getting_started)
+* [Redux](https://pub.dev/packages/flutter_redux)
+* [rxDart](https://pub.dev/packages/rxdart)
+    - [how to use rxdart with bloc pattern](https://medium.com/flutter-community/why-use-rxdart-and-how-we-can-use-with-bloc-pattern-in-flutter-a64ca2c7c52d)
 
 ### Navigation:
-* [Using Navigator key]()
-* [Navigator 2.0]()
-* [Go_Router]()
+* [Using Navigator key](https://docs.flutter.dev/cookbook/navigation)
+* Navigator 2.0
+    - [navigation 2.0 with deep linking](https://www.kodeco.com/19457817-flutter-navigator-2-0-and-deep-links)
+    - [navigation 2.0 with nested routes(bottombar routes)](https://lucasdelsol01.medium.com/flutter-navigator-2-0-for-mobile-dev-nested-navigators-basics-2dab6c55010e)
+* [Go_Router](https://pub.dev/packages/go_router)
 
 ### Networking:
-* [Http]()
-* [Dio]()
+* [Http](https://pub.dev/packages/http)
+* [Dio](https://pub.dev/packages/dio)
 
 ### Local Database:
-* [Shared Preferences]()
-* [Sqflite]()
-* [Hive]()
+* [Shared Preferences](https://pub.dev/packages/shared_preferences)
+* [Sqflite](https://docs.flutter.dev/cookbook/persistence/sqlite)
+* [Hive](https://pub.dev/packages/hive)
 
 ### Online Database:
-* [Firebase]()
-* [google sheet using app script]()
-* your own
+* [Firebase](https://firebase.flutter.dev/docs/overview/)
+* [google sheet using app script](https://medium.flutterdevs.com/integrate-google-sheet-to-flutter-app-75e8bf19a075)
+* or any online database using API [networking]().
 
 ### Dependancy Injection:
-* [GetIt]()
-* [Injectable]()
+* [GetIt](https://pub.dev/packages/get_it)
+* [Injectable](https://pub.dev/packages/injectable)
+
+## Others
+* how to create [web app](https://docs.flutter.dev/get-started/web) using flutter
 
 
 
